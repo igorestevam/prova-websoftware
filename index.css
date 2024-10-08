@@ -1,0 +1,71 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+body {
+    width: 1024PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header p {
+    display: flex;
+    background-color: brown;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 0%;
+}
+
+header img{
+    display: flex;
+    justify-content: space-around;
+    height: 682px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+#texto h1 {
+    width: 255px;
+    font-size: 30px;
+    color: brown;
+}
+
+#texto p {
+    width: 400px;
+}
+
+footer {
+    height: 50px;
+    background-color: brown;
+}
+
+div ul {
+    list-style: none;
+}
+
+div ul li {
+    margin-left: 50px;
+
+}
+
+div ul li img {
+    width: 150px;
+    border-color: brown;
+    border-style:solid;
+    padding-bottom: 0%;
+}
+
+div ul li p {
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    color: white;
+    margin-top: 0%;
+    height: 30px;
+    align-items: center;
+}
